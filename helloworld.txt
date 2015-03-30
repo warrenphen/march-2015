@@ -10,3 +10,8 @@ File statuses:
 *unstaged
 *staged
 *committed
+
+make change to a file
+git status
+git add -A
+git commit -m "meaningful message"
